@@ -63,6 +63,7 @@
 ### Tutorials
 
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
+- [Music Theory](https://bikibird.itch.io/music-theory) - Music theory lessons for programmers with interactive PICO-8 carts.
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 - [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - Screencaptures of writing a Spaceshooter game step by step.
 - [Token optimization](https://github.com/seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens.
@@ -95,6 +96,7 @@
 - [p8](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 - [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 - [midi2pico](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
+- [PICO DAW](https://www.lexaloffle.com/bbs/?tid=140734) - Digital Audio Workstation for PICO-8 tunes.
 - [Denote](https://bikibird.itch.io/denote) - Converts MIDI files into SFX data-- interactive and web based.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - A simple and clean template, that fixes issues with fullscreen, mouse and just looks nice.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - A simple helper tool for generating fillp patterns.
