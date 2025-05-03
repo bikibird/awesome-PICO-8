@@ -105,6 +105,7 @@
 - [Shrinko8](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 - [parens-8](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 - [p8-canvas](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
+- [PICO DAW](https://www.lexaloffle.com/bbs/?tid=147610) - Write PICO-8 tunes using a digital audio workstation.
 
 ### Assets
 - [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
